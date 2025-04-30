@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 سلام! من محمدرضا غلامی‌ام
 
-<!--
-**Mohgholamii/Mohgholamii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 مهندس کامپیوتر | 💻 توسعه‌دهنده اندروید با B4A  
+🚀 بنیان‌گذار آکادمی اپ‌پلاس | 🎤 مدرس و تولیدکننده محتوای آموزشی
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 مهارت‌ها
+- B4A (Basic4Android)
+- طراحی کتابخانه‌های اختصاصی B4A
+- طراحی سایت با وردپرس
+- پیاده‌سازی اپلیکیشن‌های کاربردی و هوشمند
+- طراحی رابط کاربری حرفه‌ای
+-  خلاق و ایده‌پرداز 
+- مسلط به AI Agent  
+
+
+
+📫 تماس با من:
+- [سایت آکادمی اپ‌پلاس](https://app-plus.ir)
+- [تلگرام](https://t.me/Moh_gholamii)
